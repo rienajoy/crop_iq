@@ -2,15 +2,15 @@
 
 A new Flutter project.
 
-## Getting Started
+**SETTINGS**
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+path of the files: cropiq - lib
+Files:
+  editprofile.dart (ProfileEditPage - ngalan sa class)
+    - gi import nako si home.dart (mu redirect sa hompage if nag save syag changes)
+  home.dart (himo2 ra nako na nga homepage)
+  login.dart (himo2 ra sab)
+  main.dart(himo2 ra sab ni)
+  settings.dart
+    -gi import nako ang file sa login (mu direct to login page if mu logout)
+    - editprofile sab kay gi import 
